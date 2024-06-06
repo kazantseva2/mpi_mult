@@ -1,1 +1,1 @@
-# mpi_mult
+# Отчет в task2_report.pdf
